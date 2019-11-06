@@ -1,2 +1,1 @@
-# Project 1 master
- Random Quote Generator
+# Project 1 TechDegree - Random Quote Generator Program
