@@ -1,1 +1,3 @@
-# Project 1 TechDegree - Random Quote Generator Program
+# Random quote generator
+# Languages
+HTML, CSS, Javascript
