@@ -1,3 +1,3 @@
 # Random quote generator
-# Languages
-HTML, CSS, Javascript
+This repo contains a JavaScript program that generates random quotes.
+
